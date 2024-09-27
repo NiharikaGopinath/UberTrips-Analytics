@@ -1,6 +1,6 @@
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
-Created by Yuvraj M
+
 
 ## Introduction
 
